@@ -13,8 +13,8 @@ for num in range(2, 101):
     for i in range(2, num):
         if (num % i) == 0:
             break
-        else:
-            print(num, end=" ")
+    else:
+        print(num, end=" ")
 ```
 
 In this code, we iterate over the numbers from *2 to 100* using a for loop. For each number, we check if it is divisible by any number between 2 and the number itself (excluding the number itself). If it is not divisible by any of these numbers, then it is a prime number and we print it.
