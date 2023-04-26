@@ -1,6 +1,8 @@
 # Prime Numbers
 
-#### A prime number is a positive integer greater than 1 that has no positive integer divisors other than 1 and itself. However, 0 and 1 do not satisfy this definition.
+#### A prime number is a positive integer greater than 1 that has no positive integer divisors other than 1 and itself. 
+
+However, 0 and 1 do not satisfy this definition.
 
 - 0 is not a prime number because it is not a positive integer.
 - 1 is not a prime number because it only has one positive integer divisor (which is itself), and prime numbers by definition must have at least two different positive integer divisors.
