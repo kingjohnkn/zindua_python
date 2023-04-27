@@ -18,3 +18,6 @@ with open('example3.txt', 'r') as f:
     contents = f.read()
 
 print(contents)
+
+f = open('example_doc_2.docx', 'w')
+f.write('Hello World')

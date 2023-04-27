@@ -1,4 +1,4 @@
-f = open('example.txt', 'r')
+f = open('example_doc_2.docx', 'r')
 contents = f.read()
 print(contents)
 
