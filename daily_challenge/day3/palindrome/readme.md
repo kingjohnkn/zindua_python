@@ -31,4 +31,4 @@ Once all the palindromes from the file have been added to the ```palindrome``` l
 
 The ```a+``` mode opens the file for both appending and reading. The file pointer is placed at the end of the file, so new content is added after the existing content. If the file does not exist, it is created.
 
-The final for loop loops around the list appending all the words in the list to the file. The ```+ '\n'``` at the end of ```word``` ensure that each word is place on a new line in the file.
+The final for loop loops around the list appending all the words in the list to the file. The ```+ '\n'``` at the end of ```word``` ensures that each word in the list is placed on a new line in the file ```palindrome.txt```.
